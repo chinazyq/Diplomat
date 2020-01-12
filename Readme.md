@@ -64,3 +64,7 @@ message.userInfo = @{kTencentQQSceneTypeKey: @(TencentSceneZone)}
 1. 实现协议 *DiplomatProxyProtocol* 。
 2. 添加将 *DTMessage* 转换到第三方 SDK 的方法。
 3. 将实现的自定义扩展注册到 *Diplomat* 中。
+
+### 更新微信openSDK1.8.6，微博SDK3.2.6
+1.更换UIWebView为WKWebView
+2.更新SDK及相关的代码
